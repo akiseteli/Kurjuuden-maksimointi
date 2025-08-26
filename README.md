@@ -1,2 +1,2 @@
 # Kurjuuden-maksimointi
-Kurjuuden maksimointi säästökikka
+Kurjuuden maksimointi budjettisäästö
